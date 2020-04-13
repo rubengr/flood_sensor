@@ -6,7 +6,8 @@
 
 ## Pictures
 
-![sas](.\pictures\flood_sensor_top)
+![](https://github.com/rubengr/flood_sensor/blob/dev/pictures/flood_sensor_top.png)
+![](https://github.com/rubengr/flood_sensor/blob/dev/pictures/flood_sensor_bottom.png)
 
 
 
