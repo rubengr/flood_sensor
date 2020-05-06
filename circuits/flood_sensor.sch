@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -18282,16 +18282,16 @@ Source: Http:www.be-star.com</description>
 <part name="R11" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10k"/>
 <part name="C10" library="rcl" deviceset="C-EU" device="C0805" override_package3d_urn="urn:adsk.eagle:package:19122135/2" override_package_urn="urn:adsk.eagle:footprint:19122136/1" value="100n"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="VR1" library="varistor" library_urn="urn:adsk.eagle:library:410" deviceset="S07K230" device="" package3d_urn="urn:adsk.eagle:package:30547/1"/>
+<part name="VR1" library="varistor" library_urn="urn:adsk.eagle:library:410" deviceset="S07K230" device="" package3d_urn="urn:adsk.eagle:package:30547/1" override_package3d_urn="urn:adsk.eagle:package:19919793/2" override_package_urn="urn:adsk.eagle:footprint:30449/1"/>
 <part name="PS1" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="HLK-PM01" device="3W" package3d_urn="urn:adsk.eagle:package:19122311/2" override_package3d_urn="urn:adsk.eagle:package:19121162/2" override_package_urn="urn:adsk.eagle:footprint:19121163/1" override_locally_modified="yes"/>
 <part name="X2" library="con-wago-500" library_urn="urn:adsk.eagle:library:19498447" deviceset="W237-102" device="" package3d_urn="urn:adsk.eagle:package:19498464/2"/>
 <part name="S1" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="SWITCHES_B3U" device="-1000P" package3d_urn="urn:adsk.eagle:package:19122318/2" override_package3d_urn="urn:adsk.eagle:package:19121196/2" override_package_urn="urn:adsk.eagle:footprint:19121197/1" override_locally_modified="yes"/>
 <part name="S2" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="SWITCHES_B3U" device="-1000P" package3d_urn="urn:adsk.eagle:package:19122318/2"/>
-<part name="F1" library="SparkFun-Fuses" library_urn="urn:adsk.eagle:library:517" deviceset="PPTC" device="_PTH" package3d_urn="urn:adsk.eagle:package:38574/1" value="FUSE 0.5A">
+<part name="F1" library="SparkFun-Fuses" library_urn="urn:adsk.eagle:library:517" deviceset="PPTC" device="_PTH" package3d_urn="urn:adsk.eagle:package:38574/1" override_package3d_urn="urn:adsk.eagle:package:19919835/2" override_package_urn="urn:adsk.eagle:footprint:38571/1" value="FUSE 0.5A">
 <attribute name="SERIE" value="392"/>
 </part>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="100uF"/>
-<part name="U2" library="SparkFun-IC-Power" library_urn="urn:adsk.eagle:library:526" deviceset="V_REG_LM1117" device="SOT223" package3d_urn="urn:adsk.eagle:package:39069/1" value="LM1117"/>
+<part name="U2" library="SparkFun-IC-Power" library_urn="urn:adsk.eagle:library:526" deviceset="V_REG_LM1117" device="SOT223" package3d_urn="urn:adsk.eagle:package:39069/1" override_package3d_urn="urn:adsk.eagle:package:19629487/2" override_package_urn="urn:adsk.eagle:footprint:39019/1" value="LM1117"/>
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="22uF"/>
 <part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="22uF"/>
 <part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="100uF"/>
@@ -18305,7 +18305,7 @@ Source: Http:www.be-star.com</description>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="X1" library="con-wago-500" library_urn="urn:adsk.eagle:library:19498447" deviceset="W237-102" device="" package3d_urn="urn:adsk.eagle:package:19498464/2"/>
-<part name="U1" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="MMA8452Q" device="" package3d_urn="urn:adsk.eagle:package:19499860/1"/>
+<part name="U1" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="MMA8452Q" device="" package3d_urn="urn:adsk.eagle:package:19499860/1" override_package3d_urn="urn:adsk.eagle:package:19499860/2" override_package_urn="urn:adsk.eagle:footprint:19499859/1"/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="4.7uF"/>
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun" deviceset="GND" device=""/>
@@ -18330,7 +18330,7 @@ Source: Http:www.be-star.com</description>
 <part name="GND18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="FRAME1" library="ruben" library_urn="urn:adsk.eagle:library:19122254" deviceset="FRAME-A3" device=""/>
 <part name="H3" library="holes" library_urn="urn:adsk.eagle:library:16209450" deviceset="MOUNT-HOLE" device="3.0" package3d_urn="urn:adsk.eagle:package:14277/1"/>
-<part name="H4" library="holes" library_urn="urn:adsk.eagle:library:16209450" deviceset="MOUNT-HOLE" device="3.0" package3d_urn="urn:adsk.eagle:package:14277/1"/>
+<part name="H4" library="holes" library_urn="urn:adsk.eagle:library:16209450" deviceset="MOUNT-HOLE" device="3.0" package3d_urn="urn:adsk.eagle:package:14277/1" override_package3d_urn="urn:adsk.eagle:package:19629000/2" override_package_urn="urn:adsk.eagle:footprint:14240/1"/>
 <part name="H1" library="holes" library_urn="urn:adsk.eagle:library:16209450" deviceset="MOUNT-HOLE" device="3.0" package3d_urn="urn:adsk.eagle:package:14277/1"/>
 <part name="H2" library="holes" library_urn="urn:adsk.eagle:library:16209450" deviceset="MOUNT-HOLE" device="3.0" package3d_urn="urn:adsk.eagle:package:14277/1"/>
 <part name="+3V9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
